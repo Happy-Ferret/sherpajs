@@ -1,20 +1,10 @@
 # sherpa.js
 
-Sherpa.js is a pure JavaScript library that helps consuming sherpa
-API's.
+Sherpa.js is a pure JavaScript library that helps consuming a [sherpa API](https://www.ueber.net/who/mjl/sherpa/).
 
-Available as npm package "sherpajs":
+Available as npm package [sherpajs](https://www.npmjs.com/package/sherpajs).
 
-	https://www.npmjs.com/package/sherpajs
-
-More information about sherpa:
-
-	https://www.ueber.net/who/mjl/sherpa/
-
-If you're using typescript, take a look at sherpats to generate
-typescript from sherpadoc:
-
-	https://github.com/mjl-/sherpats
+Use [sherpats](https://github.com/mjl-/sherpats) if you want to generate a typescript client library module from sherpadoc.
 
 
 # Usage
